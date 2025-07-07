@@ -1,0 +1,8 @@
+0 Elmas 
+1 Zumrut
+2 Altin
+3 Demir
+4 Netherite Kilic
+5 Elmas Kilic
+6 Altin Kilic
+7 Demir Kilic
